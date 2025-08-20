@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Tavi!
 
-<!--
-**tungerle/tungerle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a musician turned data scientist currently learning ML, Python, and C++. I love building projects that combine analytical thinking and creativity.
 
-Here are some ideas to get you started:
+## 🧰 Skills
+- Python, SQL, C++
+- Machine Learning, Data Analysis
+- pandas, scikit-learn, matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 Projects
+- [🧠 ML Course Projects](https://github.com/taviungerleider/ml-course)
+- [📦 E-commerce Product Simulation](https://github.com/taviungerleider/ecommerce-graph-project)
+
+## 📫 Connect with me
+- [LinkedIn](https://linkedin.com/in/taviungerleider)
+- [Email](mailto:taviungerleider@gmail.com)
