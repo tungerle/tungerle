@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Tavi!
 
-I'm a musician turned data scientist currently learning ML, Python, and C++. I love building projects that combine analytical thinking and creativity.
 
 ## 🧰 Skills
 - Python, SQL, C++
